@@ -1,4 +1,5 @@
-### Hi there 👋
+### drenanis's mybb 👋
+Creating a customized version for personal use based on the idea of modifying mybb to a degree that it will suit my needs but not break backwards compatablity. this is the goal at least xD
 
 <!--
 **drenanis/drenanis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
